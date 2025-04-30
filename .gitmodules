@@ -1,3 +1,6 @@
 [submodule "Harish"]
 	path = Harish
 	url = https://github.com/srithar0107/my-repository.git
+[submodule "balaji"]
+	path = balaji
+	url = https://github.com/srithar0107/my-repository.git
